@@ -37,7 +37,7 @@ This sample dataset includes labeled segments for selected container handling ph
 - trailer transport / trailer movement
 - container placed in yard / repositioned in yard
 
-> Note: Some labels collected in the broader project are intentionally excluded from this public repository. These excluded classes may include ship loading, unloading, and container movement aboard a vessel.
+> Note: Some labels collected in the broader project are intentionally excluded from this public repository. These excluded classes include ship loading, unloading, and container movement aboard a vessel.
 
 ## Intended Use
 
