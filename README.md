@@ -1,4 +1,4 @@
-A labeled sample IoT time-series dataset collected from a container-mounted endpoint in a container yard. Includes accelerometer, gyroscope, magnetometer, barometer, and piezoelectric signals across container handling phases such as reach stacker movement, trailer transport, and yard placement for ML/DL research.
+
 
 # Container Yard IoT Motion Dataset
 
