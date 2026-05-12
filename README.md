@@ -1,2 +1,1 @@
-# Container-Logistics-IoT-Dataset
-IoT sensor data from a shipping container in a port, captured during pickup, trailer transport, yard placement, and other handling phases. It includes IMU, barometer, and piezoelectric signals, and can be used to train deep learning models for motion state recognition, event detection, and logistics phase classification.
+A labeled sample IoT time-series dataset collected from a container-mounted endpoint in a container yard. Includes accelerometer, gyroscope, magnetometer, barometer, and piezoelectric signals across container handling phases such as reach stacker movement, trailer transport, and yard placement for ML/DL research.
