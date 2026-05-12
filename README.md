@@ -33,7 +33,7 @@ The dataset includes readings from the following sensors:
   
 These signals provide complementary information about vibration, motion, orientation changes, environmental pressure variation, and mechanical events.
 
-## Dataset Coloumns
+## Dataset Columns
 
 Timestamp	Roll	Pitch	Yaw	EulerX	EulerY	EulerZ	QuaternionX	QuaternionY	QuaternionZ	QuaternionW	AccX	AccY	AccZ	GyroX	GyroY	GyroZ	MagX	MagY	MagZ	LinearAccX	LinearAccY	LinearAccZ	Pressure	Altitude	Piezo
 
