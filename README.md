@@ -18,14 +18,6 @@ The recorded scenario includes:
 
   <img width="4764" height="2364" alt="timeseries_all_sensors_label_4" src="https://github.com/user-attachments/assets/7357a0a5-446c-4627-aaeb-b4ad29115f71" />
 
-<p align="center">
-  <img
-    alt="timeseries stacked all labels"
-    src="https://github.com/user-attachments/assets/3c6af365-adec-4b84-b767-16deabc1c058"
-    style="width:50%; height:auto;"
-  />
-</p>
-
 
 The dataset includes synchronized or near-synchronized measurements from multiple onboard sensors and can be used to study movement recognition, activity classification, event detection, and multimodal sensor fusion.
 
@@ -49,6 +41,14 @@ This sample dataset includes labeled segments for selected container handling ph
 - container placed on trailer
 - trailer transport / trailer movement
 - container placed in yard / repositioned in yard
+
+<p align="center">
+  <img
+    alt="timeseries stacked all labels"
+    src="https://github.com/user-attachments/assets/3c6af365-adec-4b84-b767-16deabc1c058"
+    style="width:50%; height:auto;"
+  />
+</p>
 
 > Note: Some labels collected in the broader project are intentionally excluded from this public repository. These excluded classes include ship loading, unloading, and container movement aboard a vessel.
 
