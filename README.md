@@ -15,7 +15,7 @@ The recorded scenario includes:
 - trailer transportation
 - placement of the container in another yard location
 
-<img width="5969" height="6993" alt="timeseries_stacked_all_labels" src="https://github.com/user-attachments/assets/3c6af365-adec-4b84-b767-16deabc1c058" />
+<img width="2985" height="3497" alt="timeseries_stacked_all_labels" src="https://github.com/user-attachments/assets/3c6af365-adec-4b84-b767-16deabc1c058" />
 
 
 The dataset includes synchronized or near-synchronized measurements from multiple onboard sensors and can be used to study movement recognition, activity classification, event detection, and multimodal sensor fusion.
