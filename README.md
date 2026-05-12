@@ -1,6 +1,7 @@
 
 
 
+
 # Container Yard IoT Motion Dataset
 
 A labeled sample IoT time-series dataset collected from an endpoint installed on a shipping container in a container yard environment. The dataset captures multimodal sensor readings during multiple container handling and transport phases and is intended for machine learning and deep learning research, including classification, sequence modeling, and model fine-tuning.
@@ -14,6 +15,8 @@ The recorded scenario includes:
 - placement of the container on a trailer
 - trailer transportation
 - placement of the container in another yard location
+
+  <img width="4764" height="2364" alt="timeseries_all_sensors_label_4" src="https://github.com/user-attachments/assets/7357a0a5-446c-4627-aaeb-b4ad29115f71" />
 
 <p align="center">
   <img
